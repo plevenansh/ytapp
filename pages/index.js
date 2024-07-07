@@ -16,7 +16,7 @@ export default function Home() {
         <nav className={styles.nav}>
         <div className={styles.logo}>Versetta</div>
 
-            <div class={styles.navList}>
+            <div className={styles.navList}>
                 <a href="/">Home</a>
                 <a href="#about">About</a>
                 <a href="#pricing">Pricing</a>

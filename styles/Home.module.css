@@ -331,17 +331,11 @@
 .contact {
   background-color: var(--white);
   text-align: center;
+  padding: 40px 20px;
 }
 
-.contactContent {
-  max-width: 600px;
-  margin: 0 auto;
-}
 
-.contactContent p {
-  margin-bottom: 30px;
-  font-size: 1.1rem;
-}
+
 
 .footer {
   background-color: var(--secondary-color);
@@ -526,22 +520,7 @@
 } */
 
 
-.contact {
-  text-align: center;
-  padding: 40px 20px;
-  background-color: #f8f9fa;
-  margin-top: 40px;
-}
 
-.contact h2 {
-  font-size: 2em;
-  color: #2c3e50;
-  margin-bottom: 20px;
-}
-
-.contact p {
-  margin-bottom: 10px;
-}
 
 .email {
   font-weight: bold;
