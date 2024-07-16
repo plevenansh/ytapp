@@ -82,7 +82,7 @@ export default function Home() {
         </ul>
       </div>
       <div className={styles.cardAction}>
-        <Link href="/" className={styles.cta}>Get Started</Link>
+        <Link href="signup" className={styles.cta}>Get Started</Link>
       </div>
     </div>
     <div className={styles.pricingCard}>
@@ -97,7 +97,7 @@ export default function Home() {
         </ul>
       </div>
       <div className={styles.cardAction}>
-        <Link href="/" className={styles.cta}>Get Started</Link>
+        <Link href="signup" className={styles.cta}>Get Started</Link>
       </div>
     </div>
     <div className={styles.pricingCard}>
