@@ -31,7 +31,7 @@ export default function Home() {
         <section className={styles.hero}>
           <h1 className={styles.title}>Empower Your Content Creation</h1>
           <p className={styles.subtitle}>Streamline your workflow with AI-powered tools and analytics</p>
-          <Link href="/" className={styles.cta}>Get Started</Link>
+          <Link href="signup" className={styles.cta}>Get Started</Link>
         </section>
 
         <section id="about" className={styles.about}>
